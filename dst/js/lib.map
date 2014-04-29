@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "lib.js",
+  "sourceRoot": "../../src/coffee",
+  "sources": [
+    "lib.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,CAAQ,MAAR;;AACA,CADA,MACA,CAAQ"
+}

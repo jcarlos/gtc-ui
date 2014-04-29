@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "gtc.js",
+  "sourceRoot": "../../src/coffee",
+  "sources": [
+    "gtc.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,0BAAA;;AAAA,CAAA,EAAiB,WAAjB,4FAAA;;AAGA,CAHA,EAIE,OADF;CACE,CAAA,KAAA;CAAA,CACA,aAAA;CADA,CAEA,CAAc,SAAd;CAFA,CAGA,MAAgB,MAAhB;CAPF,CAAA;;AASA,CATA,CASA,CAAS,CAAA,MAAA;;AACT,CAVA,CAUE,IAAF;;AACA,CAXA,CAWE,EAAF"
+}
